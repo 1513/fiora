@@ -111,5 +111,3 @@ If you want to add functionality or fix bug, please observe the following proces
 * Message encrypt mechanism
 * Nav bar optimize
 * Save user setting on server
-mongodb start:  
-mongod.exe --dbpath E:/Mongodb3.0.13/dbdata
